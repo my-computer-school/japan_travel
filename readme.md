@@ -276,7 +276,7 @@
 4. **도쿄 메트로폴리탄 호텔**
    - **웹사이트**: [도쿄 메트로폴리탄 호텔](https://www.marriott.com/hotels/travel/tyoak-tokyo-metropolitan-hotel/)
    
-5. **호텔 루츠 도쿄 신주쿠**
+5. **호텔 루츠 도쿄 신주쿠**.
    - **웹사이트**: [호텔 루츠 도쿄 신주쿠](https://www.hotelroots.com/tokyo-shinjuku/)
    
 ---
