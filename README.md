@@ -16,7 +16,7 @@
 - **07:00**: 인천공항 출발
 - **09:30**: 간사이공항 도착
 - **10:30**: 오사카 시내로 이동
-  - **이동 경로**: [간사이공항 → Swissôtel Nankai Osaka](https://www.google.com/maps/dir/Kansai+International+Airport/Swiss%C3%B4tel+Nankai+Osaka/)
+  - **이동 경로**: [간사이공항 → Regale Dotonbori East](https://maps.app.goo.gl/N1FqzjSfq3KuJ3nr8)
     - **교통편**: 난카이 전철 "Rapit" 이용, 약 45분 소요
 - **12:00**: 점심 식사
   - **이동 경로**: [Swissôtel Nankai Osaka → 이치란 라멘 오사카 난바점](https://www.google.com/maps/dir/Swiss%C3%B4tel+Nankai+Osaka/Ichiran+Ramen+Osaka+Namba/)
