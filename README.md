@@ -18,7 +18,7 @@
 - **10:30**: 오사카 시내로 이동
   - **이동 경로**: [간사이공항 → Regale Dotonbori East](https://www.google.com/maps/dir/%EC%9D%BC%EB%B3%B8+%EC%98%A4%EC%82%AC%EC%B9%B4%EB%B6%80+%EC%9D%B4%EC%A6%88%EB%AF%B8%EC%82%AC%EB%85%B8%EC%8B%9C+%EC%84%BC%EC%8A%88%EC%BF%A0%EC%BD%94%ED%82%A4%ED%83%80+%EA%B0%84%EC%82%AC%EC%9D%B4+%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD/Regale+Dotonbori+East,+2+Chome-6-17+Kozu,+Chuo+Ward,+Osaka,+542-0072+%EC%9D%BC%EB%B3%B8/@34.5281948,135.2153784,11z/data=!4m14!4m13!1m5!1m1!1s0x6000b91323cdfaf7:0xf171a79f8d908f88!2m2!1d135.2366019!2d34.4319994!1m5!1m1!1s0x6000e7c90d55d89f:0xa8c7901c3576435a!2m2!1d135.5110169!2d34.6675586!3e3?authuser=0&entry=ttu&g_ep=EgoyMDI0MTAyMC4wIKXMDSoASAFQAw%3D%3D)
     
-- **12:00**: 점심 식사
+- **12:00**: 점심 식사.
   - **이동 경로**: [Regale Dotonbori East → 이치란 도톤보리점 본관](https://www.google.com/maps/dir/Regale+Dotonbori+East,+2+Chome-6-17+Kozu,+Chuo+Ward,+Osaka,+542-0072+%EC%9D%BC%EB%B3%B8/%EC%9D%BC%EB%B3%B8+%EC%98%A4%EC%82%AC%EC%B9%B4%EB%B6%80+%EC%98%A4%EC%82%AC%EC%B9%B4%EC%8B%9C+%EC%A3%BC%EC%98%A4%EA%B5%AC+%EC%86%8C%EC%9A%B0%EC%97%90%EB%AA%AC%EC%B4%88+7,+(%E3%88%B1)%E7%94%B0%E8%88%8E%E3%81%9D%E3%81%B0%E3%83%93%E3%83%AB+%EC%9D%B4%EC%B9%98%EB%9E%80+%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%EC%A0%90+%EB%B3%B8%EA%B4%80/@34.6683802,135.5044535,17z/data=!3m1!5s0x6000e714f42c4edb:0xeb6553b7ceb2980f!4m14!4m13!1m5!1m1!1s0x6000e7c90d55d89f:0xa8c7901c3576435a!2m2!1d135.5110169!2d34.6675586!1m5!1m1!1s0x6000e714f42589f7:0xd44527d3d4190e80!2m2!1d135.503039!2d34.6692097!3e3?authuser=0&entry=ttu&g_ep=EgoyMDI0MTAyMC4wIKXMDSoASAFQAw%3D%3D)
 
 - **14:00**: 오사카 성 관람
