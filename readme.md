@@ -34,7 +34,7 @@
     ```plaintext
     도보 약 5분 소요
     ```
-  - **관광지 링크**: <a href="https://www.osaka-info.jp/ko/spotdotonbori/" target="_blank">도톤보리 공식 정보</a>
+  - **관광지 링크**: <a href="https://www.osaka-info.jp/ko/spot/dotonbori/" target="_blank">도톤보리 공식 정보</a>
 - **17:00**: 오사카 성 관람
   - **이동 경로**: [도톤보리 → 오사카 성](https://www.google.com/maps/dir/Dotonbori/Osaka+Castle/)
     ```plaintext
