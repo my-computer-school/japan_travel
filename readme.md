@@ -16,9 +16,7 @@
 - **07:00**: 인천공항 출발
 - **09:30**: 간사이공항 도착
 - **10:30**: 오사카 시내로 이동
-  - **이동 경로**: 
-  <u>
-  [간사이공항 → Regale Dotonbori East](https://www.google.com/maps/dir/Kansai+International+Airport/Regale+Dotonbori+East/)
+  - **이동 경로**: [간사이공항 → Regale Dotonbori East](https://www.google.com/maps/dir/Kansai+International+Airport/Regale+Dotonbori+East/)
     ```plaintext
     교통편: 난카이 전철 "Rapit" 이용, 약 45분 소요
     ```
